@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\bin\Debug\HTTP2.exe.config
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\bin\Debug\HTTP2.exe
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\bin\Debug\HTTP2.pdb
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\obj\Debug\HTTP2.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\obj\Debug\HTTP2.Form1.resources
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\obj\Debug\HTTP2.Properties.Resources.resources
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\obj\Debug\HTTP2.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\obj\Debug\HTTP2.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\obj\Debug\HTTP2.exe
+C:\Users\Сергей\source\repos\HTTP2\HTTP2\obj\Debug\HTTP2.pdb

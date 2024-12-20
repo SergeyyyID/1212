@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\bin\Debug\image Redactor.exe.config
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\bin\Debug\image Redactor.exe
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\bin\Debug\image Redactor.pdb
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\obj\Debug\image Redactor.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\obj\Debug\image_Redactor.Form1.resources
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\obj\Debug\image_Redactor.Properties.Resources.resources
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\obj\Debug\image Redactor.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\obj\Debug\image Redactor.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\obj\Debug\image Redactor.exe
+C:\Users\Сергей\source\repos\image Redactor\image Redactor\obj\Debug\image Redactor.pdb

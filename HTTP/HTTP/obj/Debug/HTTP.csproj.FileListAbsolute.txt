@@ -1,0 +1,10 @@
+C:\Users\Сергей\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\HTTP\HTTP\obj\Debug\HTTP.Form1.resources
+C:\Users\Сергей\source\repos\HTTP\HTTP\obj\Debug\HTTP.Properties.Resources.resources
+C:\Users\Сергей\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\HTTP\HTTP\obj\Debug\HTTP.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe.config
+C:\Users\Сергей\source\repos\HTTP\HTTP\bin\Debug\HTTP.exe
+C:\Users\Сергей\source\repos\HTTP\HTTP\bin\Debug\HTTP.pdb
+C:\Users\Сергей\source\repos\HTTP\HTTP\obj\Debug\HTTP.exe
+C:\Users\Сергей\source\repos\HTTP\HTTP\obj\Debug\HTTP.pdb
